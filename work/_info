@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vCounter
+Z1 !s100 E9Of2h<YS_?:7NB=WOJk81
+Z2 IAEn?JX>[JJ:<1cLcd@ifI1
+Z3 VWLDjR^3ULc?]bm2[bJ6n81
+Z4 dF:\CE213\Counter With Parallel Load\Pre- Syns
+Z5 w1600737525
+Z6 8F:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v
+Z7 FF:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|F:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v|
+Z10 o-work work -O0
+Z11 n@counter
+Z12 !s108 1600919758.306000
+Z13 !s107 F:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_FF
+Z14 !s100 hk0cGkK3dBU^WE5QnC>m@1
+Z15 IF@YNhI;83ZPCCWnz4]2=b0
+Z16 VIOY8LWZWNC8BX8m78NQ`R2
+R4
+Z17 w1600737332
+Z18 8F:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v
+Z19 FF:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|F:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v|
+R10
+Z21 n@d_@f@f
+Z22 !s108 1600919757.372000
+Z23 !s107 F:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_latch
+Z24 Ig3a=kR4z5igFIWNhHbXWY2
+Z25 V7^V6U]TFTZPCNb>KDBU7T2
+R4
+Z26 w1600919742
+Z27 8F:\CE213\Counter With Parallel Load\Pre- Syns\D_latch.v
+Z28 FF:\CE213\Counter With Parallel Load\Pre- Syns\D_latch.v
+L0 1
+R8
+r1
+31
+R10
+Z29 n@d_latch
+Z30 !s100 04f8K71]Ph[7WaFRgPo402
+Z31 !s108 1600919757.009000
+Z32 !s107 F:\CE213\Counter With Parallel Load\Pre- Syns\D_latch.v|
+Z33 !s90 -reportprogress|300|-work|work|F:\CE213\Counter With Parallel Load\Pre- Syns\D_latch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHAS
+Z34 !s100 ;LPz4]QEd0EBOJIiiOcPD0
+Z35 IXgb7257acL7ZMHi6fEERc3
+Z36 VgK8Y=@FiKJAghYZnB9o`?3
+R4
+Z37 w1600737269
+Z38 8F:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v
+Z39 FF:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|F:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v|
+R10
+Z41 n@h@a@s
+Z42 !s108 1600919757.692000
+Z43 !s107 F:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX
+Z44 !s100 TejJCX4PzYVl@773b9gj91
+Z45 IBS@63]WJm1g;;KLGEIcP[0
+Z46 VJjZjAJ27X9J;3Im[<Z5dP0
+R4
+Z47 w1600737228
+Z48 8F:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v
+Z49 FF:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|F:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v|
+R10
+Z51 n@m@u@x
+Z52 !s108 1600919757.998000
+Z53 !s107 F:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+!s100 J=S4Oheok06PMBFMc4e=n0
+IB^z3TdA[N:6Qh6j[6B_I>2
+Z54 VPliQB0NZSDVQ2J_FG<JPH1
+R4
+w1601196077
+Z55 8F:\CE213\Counter With Parallel Load\Pre- Syns\TestBench.v
+Z56 FF:\CE213\Counter With Parallel Load\Pre- Syns\TestBench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1601196083.623000
+!s107 F:\CE213\Counter With Parallel Load\Pre- Syns\TestBench.v|
+Z57 !s90 -reportprogress|300|-work|work|F:\CE213\Counter With Parallel Load\Pre- Syns\TestBench.v|
+!s101 -O0
+R10
+Z58 n@test@bench

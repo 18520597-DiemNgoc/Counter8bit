@@ -1,0 +1,43 @@
+{F:/CE213/Counter With Parallel Load/Pre- Syns/TestBench.v} {1 {vlog -work work {F:\CE213\Counter With Parallel Load\Pre- Syns\TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {F:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v} {1 {vlog -work work {F:/CE213/Counter With Parallel Load/Pre- Syns/HAS.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAS
+
+Top level modules:
+	HAS
+
+} {} {}} {F:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v} {1 {vlog -work work {F:/CE213/Counter With Parallel Load/Pre- Syns/Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} {F:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v} {1 {vlog -work work {F:/CE213/Counter With Parallel Load/Pre- Syns/MUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {F:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v} {1 {vlog -work work {F:/CE213/Counter With Parallel Load/Pre- Syns/D_FF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} {F:/CE213/Counter With Parallel Load/Pre- Syns/D_latch.v} {1 {vlog -work work {F:\CE213\Counter With Parallel Load\Pre- Syns\D_latch.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}}
